@@ -51,15 +51,15 @@ countryName_default 		= US
 stateOrProvinceName 		= State or Province Name (full name)
 stateOrProvinceName_default 	= California
 localityName 			= Locality Name (eg, city)
-localityName_default 		= Sunnyvale
+localityName_default 		= SantaMonica
 organizationName 		= Organization Name (eg, company)
-organizationName_default 	= Walia LLC
+organizationName_default 	= Hulu
 organizationalUnitName 		= Organizational Unit (eg, division)
-organizationalUnitName_default 	= Certificate Testing Department
+organizationalUnitName_default 	= Hulu Certificate Department
 commonName 			= Common Name (e.g. server FQDN or YOUR name)
-commonName_default 		= myRootCA
+commonName_default 		= HuluCA
 emailAddress 			= Email Address
-emailAddress_default 		= abhishek@abhishek.net
+emailAddress_default 		= hao.wang@hulu.com
 ####################################################################
 
 ####################################################################
